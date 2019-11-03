@@ -1,0 +1,56 @@
+html, body {
+    
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    background-image: url(photos/background.jpg);
+    background-repeat: no-repeat;
+    max-width: 100%;
+    height: auto;
+}
+
+.navbar {
+    float: right;
+}
+
+ul li {
+    background-color: #555555;
+    display: inline;
+    border-top:2px solid #777777;
+    border-right:2px solid #333333;
+    border-bottom:2px solid #444444;
+    border-left:2px solid #777777;
+    padding: 7px;
+    margin: 5px;
+}
+
+ul li a {
+    text-decoration: none;
+    color: white;
+}
+
+h1 {
+    text-align: center;
+    margin: 20px;
+}
+
+.p5-p {
+    font-size: 30px;
+}
+
+.p5-p1 {
+    font-size: 25px;
+}
+
+
+.projects {
+    padding: 50px;
+    margin: 20px;
+}
+
+.python {
+    background-color: white;
+    margin: 20px;
+}
