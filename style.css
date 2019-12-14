@@ -6,7 +6,7 @@ html, body {
 
 body {
     background-image: url(photos/background.jpg);
-    background-repeat: no-repeat;
+    background-repeat: repeat-y;
     max-width: 100%;
     height: auto;
 }
